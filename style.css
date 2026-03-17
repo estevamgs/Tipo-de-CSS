@@ -1,0 +1,15 @@
+    .container{
+      width: 500px;
+      height: fit-content;
+      background-color: aliceblue;
+      border-radius: 25px;
+      border: solid 2px navy;
+      margin: 20px;
+      padding: 30px;
+    }
+    span{
+      color: navy;
+    }
+    body{
+        background-color: aqua;
+    }
